@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading_contacts">Loading contacts…</string>
+    <string name="error_while_loading_contacts">Error while loading contacts.</string>
+    <string name="no_contacts_available">No contacts available.</string>
+    <string name="try_again">Try again</string>
+</resources>
